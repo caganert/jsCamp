@@ -94,7 +94,7 @@ function perfectNumbers() {
 perfectNumbers()
 
 //assignment 2.1.4 (Listing Prime Numbers)
-console.log("=======List of Prime Numbers (1-1000)=======")
+console.log("\n=======List of Prime Numbers (1-1000)=======")
 
 function listPrime(){
     console.log("Prime Numbers (1-1000")
